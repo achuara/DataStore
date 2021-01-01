@@ -5,14 +5,14 @@
 # output
 
                      # CREATE 
-#Create operation successful
-#Operation failed due to key already available
-#Operation failed due to key already available
-#Create operation successful
-#Operation failed due to key length exceeded the limit(32chars)
+# Create operation successful
+# Operation failed due to key already available
+# Operation failed due to key already available
+# Create operation successful
+# Operation failed due to key length exceeded the limit(32chars)
  #                  AFTER WAIT
-#Create operation successful
-#Operation failed due to key already available
+# Create operation successful
+# Operation failed due to key already available
 #Operation failed due to key already available
 #Operation failed due to key already available
  #                      READ
